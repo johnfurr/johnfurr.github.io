@@ -47,7 +47,9 @@
               value="{{ site.data.sitetext[site.locale].contact.subject | default: "Contact Form Submission" }}">
             <div class="clearfix"></div>
             {% if site.google.recaptcha %}
+            <div class="col-lg-12 text-center">
               <div class="g-recaptcha" data-sitekey="{{ site.google.recaptcha }}"></div>
+            </div>
             {% endif %}
             <div class="col-lg-12 text-center">
               <div id="success"></div>
