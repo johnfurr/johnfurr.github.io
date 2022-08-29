@@ -30,7 +30,7 @@ author     : John Furr
 locale: "en-US" # See available languages in _data/sitetext.yml
 
 google:
-  analytics: #Google Analytics tracking code here
+  analytics: G-MEFSMRM21N
   recaptha: #Google reCaptcha key here
 
 
