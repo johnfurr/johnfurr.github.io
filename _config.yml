@@ -31,7 +31,7 @@ locale: "en-US" # See available languages in _data/sitetext.yml
 
 google:
   analytics: G-MEFSMRM21N
-  recaptha: #Google reCaptcha key here
+  recaptha: 6LdxgbohAAAAAPQfB_bggbH9bQ70b4gxLKREBkki
 
 
 
