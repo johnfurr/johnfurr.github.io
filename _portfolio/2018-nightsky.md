@@ -8,7 +8,7 @@ caption: #what displays in the portfolio grid:
 title: Night Sky
 subtitle: subtitle lorem ipsum dolor sit amet consectetur.
 image: 
-alt: image alt text
+alt: 
 
 ---
 
