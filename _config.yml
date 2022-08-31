@@ -22,7 +22,7 @@ sass:
 
 title      : John Furr
 short-title : JF
-description: "Site description"
+description: "A personal portfolio site for my creative works."
 author     : John Furr
 # logo:     #optional, defaults to site title
   # path: assets\img\clients\creative-market.jpg

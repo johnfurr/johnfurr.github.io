@@ -3,6 +3,7 @@ caption: #what displays in the portfolio grid:
   title: Colmbus CVB
   subtitle: Website - Developer
   thumbnail: assets/img/portfolio/columbus-thumb.jpg
+  web-link: https://visitcolumbusga.com/
   
 #what displays when the item is clicked:
 title: Columbus CVB Website
