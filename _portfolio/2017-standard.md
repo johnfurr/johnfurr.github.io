@@ -1,7 +1,7 @@
 ---
 caption: #what displays in the portfolio grid:
   title: Standard Exterior Solutions
-  subtitle: Website
+  subtitle: Website - Developer
   thumbnail: assets/img/portfolio/standard-thumb.jpg
   
 #what displays when the item is clicked:

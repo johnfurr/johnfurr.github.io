@@ -1,7 +1,7 @@
 ---
 caption: #what displays in the portfolio grid:
   title: MACOA
-  subtitle: Website
+  subtitle: Website - Designer & Developer
   thumbnail: assets/img/portfolio/macoa-thumb.jpg
   
 #what displays when the item is clicked:

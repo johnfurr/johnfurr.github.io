@@ -1,7 +1,7 @@
 ---
 caption: #what displays in the portfolio grid:
   title: Colmbus CVB
-  subtitle: Website
+  subtitle: Website - Developer
   thumbnail: assets/img/portfolio/columbus-thumb.jpg
   
 #what displays when the item is clicked:
