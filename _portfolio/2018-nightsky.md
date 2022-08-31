@@ -6,7 +6,7 @@ caption: #what displays in the portfolio grid:
   
 #what displays when the item is clicked:
 title: Night Sky
-subtitle: A project to 
+subtitle: A short piece to highlight the issue of light pollution and the corresponding the disconnect with our place in the universe.
 image: 
 alt: 
 
