@@ -44,6 +44,7 @@ en: &DEFAULT_EN
           - item: VS Code
           - item: Brackets
           - item: Bootstrap
+          - item: Wordpress
           - item: Unity
         icon: fas fa-code
       - title: "Photo & Video"
