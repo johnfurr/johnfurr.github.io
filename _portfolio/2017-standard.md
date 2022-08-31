@@ -11,7 +11,7 @@ image: assets/img/portfolio/standard.jpg
 alt: Standard Exterior Solutions
 
 ---
-
+Informational website for a commercial client with video and motion built on the Expression Engine CMS.
 
 {:.list-inline} 
 - Date: 2016

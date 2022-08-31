@@ -11,7 +11,7 @@ image: assets/img/portfolio/aladrive.jpg
 alt: aladrive
 
 ---
-
+Simple one page site for a client with a limited budget utilizing a squarespace template.
 
 {:.list-inline} 
 - Date: 2021
