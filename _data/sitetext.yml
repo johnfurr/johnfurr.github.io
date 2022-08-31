@@ -104,8 +104,8 @@ en: &DEFAULT_EN
         position: "Mac Lab Assistant"
         year: "2009-2012"
         desc: 
-          - "Troubleshooted problems and submitted support tickets."
-          - "General maintenance. cleaning, and upkeep."
+          - "Troubleshot problems and submitted support tickets."
+          - "General maintenance, cleaning, and upkeep."
         image: 
         alt:
         # you can enforce the alignment
