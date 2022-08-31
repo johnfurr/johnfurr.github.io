@@ -6,7 +6,7 @@ caption: #what displays in the portfolio grid:
   
 #what displays when the item is clicked:
 title: Aladrive.org
-subtitle: subtitle lorem ipsum dolor sit amet consectetur.
+subtitle:
 image: assets/img/portfolio/aladrive.jpg
 alt: aladrive
 

@@ -6,7 +6,7 @@ caption: #what displays in the portfolio grid:
   
 #what displays when the item is clicked:
 title: Montgomery Area Council on Aging Website
-subtitle: subtitle lorem ipsum dolor sit amet consectetur.
+subtitle: 
 image: assets/img/portfolio/macoa.jpg
 alt: Columbus CVB Website
 

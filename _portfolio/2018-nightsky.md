@@ -6,7 +6,7 @@ caption: #what displays in the portfolio grid:
   
 #what displays when the item is clicked:
 title: Night Sky
-subtitle: subtitle lorem ipsum dolor sit amet consectetur.
+subtitle: A project to 
 image: 
 alt: 
 

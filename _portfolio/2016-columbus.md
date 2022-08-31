@@ -7,7 +7,7 @@ caption: #what displays in the portfolio grid:
   
 #what displays when the item is clicked:
 title: Columbus CVB Website
-subtitle: subtitle lorem ipsum dolor sit amet consectetur.
+subtitle: 
 image: assets/img/portfolio/columbus.jpg
 alt: Columbus CVB Website
 
