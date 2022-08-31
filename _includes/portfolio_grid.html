@@ -9,7 +9,7 @@
       </div>
     </div>
     <div class="row">
-	{% for project in site.portfolio %}
+	{% for project in site.portfolio reversed %}
       <div class="col-md-4 col-sm-6 portfolio-item">
         <a class="portfolio-link" data-toggle="modal" href="#p{{ forloop.index }}">
           <div class="portfolio-hover">
@@ -20,7 +20,7 @@
           <img class="img-fluid" src="{{ project.caption.thumbnail }}" alt="">
         </a>
         <div class="portfolio-caption">
-          <h4>{{ project.caption.title }}</h4>
+          <h4><a data-toggle="modal" href="#p{{ forloop.index }}">{{ project.caption.title }}</a></h4>
           <p class="text-muted">{{ project.caption.subtitle }}</p>
         </div>
       </div>
@@ -38,7 +38,7 @@
       </div>
     </div>
     <div class="row">
-	{% for project in site.portfolio %}
+	{% for project in site.portfolio reversed %}
       <div class="col-md-4 col-sm-6 portfolio-item">
         <a class="portfolio-link" data-toggle="modal" href="#p{{ forloop.index }}">
           <div class="portfolio-hover">
@@ -49,7 +49,7 @@
           <img class="img-fluid" src="{{ project.caption.thumbnail }}" alt="">
         </a>
         <div class="portfolio-caption">
-          <h4>{{ project.caption.title }}</h4>
+          <h4><a data-toggle="modal" href="#p{{ forloop.index }}">{{ project.caption.title }}</a></h4>
           <p class="text-muted">{{ project.caption.subtitle }}</p>
         </div>
       </div>
