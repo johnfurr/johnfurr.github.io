@@ -115,14 +115,14 @@ en: &DEFAULT_EN
   about:
     title: "Hi, I’m John. "
     text: "Nice to meet you."
-    subtext: "Lorem Ipsum dolor sit amet..."
+    subtext: "I'm a developer by trade, but a creative by heart. When I'm not creating websites, you can find me racing cars, playing paintball, shooting with camearas, and gaming."
     section: about
     people:
       - name: John Furr
         role: Designer & Develoer
         image: assets/img/about.jpg
         social:
-          - url: https://github.com/JohnMakes
+          - url: https://github.com/JohnFurr
             icon: fab fa-github
           - url: https://www.linkedin.com/in/johnfurr/
             icon: fab fa-linkedin-in
