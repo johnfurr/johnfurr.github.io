@@ -16,5 +16,4 @@ alt:
 </div>
 <br />
 {:.list-inline} 
-- Date: 2011
 - Link: [https://youtu.be/LvLEBtRmKT0](https://youtu.be/LvLEBtRmKT0){:target="_blank"}

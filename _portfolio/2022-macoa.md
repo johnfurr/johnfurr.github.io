@@ -14,6 +14,5 @@ alt: Columbus CVB Website
 Planned and re-designed the website from the ground up utilizing the Squarespace Developer platform to make a bespoke template based on the client’s needs.
 
 {:.list-inline} 
-- Date: 2022
 - Role: Designer & Developer
 - Link: [https://www.macoa.org](https://www.macoa.org/){:target="_blank"}

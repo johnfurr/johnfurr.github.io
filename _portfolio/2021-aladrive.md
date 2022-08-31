@@ -14,6 +14,5 @@ alt: aladrive
 Simple one page site for a client with a limited budget utilizing a squarespace template.
 
 {:.list-inline} 
-- Date: 2021
 - Role: Designer & Developer
 - Link: [https://aladrive.com/](https://aladrive.com/){:target="_blank"}

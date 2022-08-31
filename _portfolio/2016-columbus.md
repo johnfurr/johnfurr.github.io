@@ -14,6 +14,5 @@ alt: Columbus CVB Website
 Developed two major redesigns of this large informational website with lots of images, videos, and maps for the Columbus Convention & Visitors Bureau built on the Expression Engine CMS.
 
 {:.list-inline} 
-- Date: 2016
 - Role: Lead Developer
 - Link: [https://visitcolumbusga.com](https://visitcolumbusga.com/){:target="_blank"}
