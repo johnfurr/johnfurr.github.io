@@ -34,7 +34,14 @@ google:
   analytics: G-MEFSMRM21N
   recaptcha: 6LdxgbohAAAAAPQfB_bggbH9bQ70b4gxLKREBkki
 
-
+compress_html:
+  clippings: all
+  comments: ["<!-- ", " -->"]
+  endings: all
+  profile: false
+  blanklines: false
+  ignore:
+    envs: [local]
 
 collections:
   portfolio:
