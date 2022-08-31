@@ -9,6 +9,7 @@ title: Standard Commercial Roofing
 subtitle: 
 image: assets/img/portfolio/standard.jpg
 alt: Standard Exterior Solutions
+web-link: https://standardexteriorsolutions.com/
 
 ---
 Informational website for a commercial client with video and motion built on the Expression Engine CMS.

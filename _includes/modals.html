@@ -22,11 +22,21 @@
               <!-- Project Details Go Here -->
               <h4 class="text-uppercase">{{ project.title }}</h4>
               <p class="item-intro text-muted">{{ project.subtitle }}</p>
-              <img
-                class="img-fluid d-block mx-auto"
-                src="{{ project.image }}"
-                alt="{{ project.alt }}"
-              />
+              {% if project.web-link %}
+                <a href="{{ project.web-link }}" target="_blank">
+                  <img
+                    class="img-fluid d-block mx-auto"
+                    src="{{ project.image }}"
+                    alt="{{ project.alt }}"
+                  />
+                </a>
+              {% else %}
+                <img
+                  class="img-fluid d-block mx-auto"
+                  src="{{ project.image }}"
+                  alt="{{ project.alt }}"
+                />
+              {% endif %}
               <p>{{ project.content }}</p>
               <button
                 class="btn btn-primary"
@@ -66,11 +76,21 @@
               <!-- Project Details Go Here -->
               <h4 class="text-uppercase">{{ project.title }}</h4>
               <p class="item-intro text-muted">{{ project.subtitle }}</p>
-              <img
-                class="img-fluid d-block mx-auto"
-                src="{{ project.image }}"
-                alt="{{ project.alt }}"
-              />
+              {% if project.web-link %}
+                <a href="{{ project.web-link }}" target="_blank">
+                  <img
+                    class="img-fluid d-block mx-auto"
+                    src="{{ project.image }}"
+                    alt="{{ project.alt }}"
+                  />
+                </a>
+              {% else %}
+                <img
+                  class="img-fluid d-block mx-auto"
+                  src="{{ project.image }}"
+                  alt="{{ project.alt }}"
+                />
+              {% endif %}
               <p>{{ project.content }}</p>
               <button
                 class="btn btn-primary"
