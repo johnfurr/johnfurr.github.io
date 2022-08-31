@@ -21,8 +21,14 @@
           </span>
           <h4 class="service-heading">{{ service.title | markdownify }}</h4>
           {% if service.desc %}<div class="text-muted">{{ service.desc | markdownify }}</div>{% endif %}
-          {% if service.list-title %}<div>{{ service.list-title| markdownify }}</div>{% endif %}
-          {% if service.list %}<div class="text-muted">{{ service.list | markdownify }}</div>{% endif %}
+          {% if service.list-title %}
+            <div>
+              <p>
+              {{ service.list-title}}<br>
+              {% if service.list %}<span class="text-muted">{{ service.list }}</span>{% endif %}
+              </p>
+            </div>
+          {% endif %}
           {% if service.desc %}<h6>{{ service.tools-title | markdownify }}</h6>{% endif %}
           <ul>
             {% for tools in service.tools %}

@@ -18,33 +18,44 @@ en: &DEFAULT_EN
 
   services:
     title: "Skills"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    text: 
     section: skills
     list:
       - title: "Design"
-        desc: "Lorem ipsum dolor sit amet consectetur."
+        desc: "I value clean design, simple content structure, and thoughtful interactions."
         list-title: "Things I enjoy designing:"
         list: "UX, UI, Animations, Games, Web"
         tools-title: "Design Tools:"
         tools:
           - item: Adobe XD
-          - item: After Effects
+          - item: After Animate
           - item: Photoshop
           - item: Illustrator
           - item: Pen & Paper
         icon: fa fa-object-group
       - title: "Development"
-        desc: "Lorem ipsum dolor sit amet consectetur."
+        desc: "Whether a website or a game, I like seeing projects I code from scratch come to life."
         list-title: "Langauges I speak:"
-        list: "HTML, Sass, Javascript, Git"
+        list: "HTML, Sass/CSS, PHP, Javascript, Git"
         tools-title: "Dev Tools:"
         tools:
-          - item: VS Code
           - item: Github
+          - item: VS Code
+          - item: Brackets
+          - item: Bootstrap
+          - item: Unity
         icon: fas fa-code
-      - title: "Photography"
-        desc: "Lorem ipsum dolor sit amet consectetur."
+      - title: "Photo & Video"
+        desc: "Capturing life through the view of a lens has been a long passion of mine."
         icon: fas fa-camera
+        list-title: "Cameras I wield:"
+        list: "Canon 70D, Sony A6500, Insta 360, Action Cams"
+        tools-title: "Tools:"
+        tools:
+          - item: Photoshop
+          - item: Lightroom
+          - item: Premiere Pro
+          - item: After Effects
 
   portfolio:
     title: "Portfolio"
@@ -54,39 +65,56 @@ en: &DEFAULT_EN
 
   resume:
     title: "Resume"
-    text: "Lorem ipsum timeline"
+    text: "Full stack web developer with a passion for design and 5+ years of agency and 3 years of freelance exerience developing web strategies for clients."
     section: resume
     # left is the default
     #start_align: "left"
     events:
-      - title: "Our Humble Beginnings"
-        year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/timeline/1.jpg
+      - title: "Freelance"
+        position: "Web Developer and IT Support"
+        year: "May 2019 - Present"
+        desc: 
+          - "Designed and developed websites for clients"
+          - "Manged website content and updates"
+          - "As well as provided technical support including network wiring, setup, and general troubleshooting"
+        image: 
         alt:
-      - title: "An Agency is Born"
-        year: "March 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/timeline/2.jpg
+      - title: "Stamp Idea Group"
+        position: "Web Developer"
+        year: "July 2013 - May 2019"
+        desc: 
+          - "Developed websites with in various CMS platforms for clients"
+          - "Designed mobile responsive layouts from desktop designs"
+          - "Edited videos and photos for use on the web"
+          - "Coded and managed email marketing campaigns"
+          - "Managed website content and updates"
+        image: 
         alt:
-      - title: "Jekyll Theme is created"
-        year: "2019"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
-        image: assets/img/timeline/3.jpg
-        alt: image alt text
-      - title: "Title"
-        year: "2009-2011"
-        desc: "Your description here, **Markdown** is fully supported."
-        image: assets/img/timeline/4.jpg
+      - title: "LWT"
+        position: "Creative Intern"
+        year: "June - August 2012"
+        desc: 
+          - "Designed print and web layouts for clients"
+          - "Managed and updated  websites"
+          - "Coded and managed email marketing campaigns"
+        image: 
+        alt:
+      - title: "Memphis College of Art"
+        position: "Mac Lab Assistant"
+        year: "2009-2012"
+        desc: 
+          - "Troubleshooted problems and submitted support tickets"
+          - "General maintenance. cleaning, and upkeep"
+        image: 
         alt:
         # you can enforce the alignment
         align: right
     end: "Be Part <br> of Our <br> Story!"
 
   about:
-    title: "About Me"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+    title: "Hi, I’m John. "
+    text: "Nice to meet you."
+    subtext: "Lorem Ipsum dolor sit amet..."
     section: about
     people:
       - name: John Furr
@@ -103,8 +131,8 @@ en: &DEFAULT_EN
             
 
   contact:
-    title: "Contact Us"
-    text: "Lorem ipsum or call 123456789"
+    title: "Contact Me"
+    text: 
     section: contact
     name: "Name*"
     name-validation: "Please enter your name."

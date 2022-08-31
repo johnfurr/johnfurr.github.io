@@ -37,9 +37,16 @@
                 <div class="timeline-heading">
                   <h4>{{ event.year | markdownify }}</h4>
                   <h4 class="subheading">{{ event.title }}</h4>
+                  <h5 class="subheading light">{{ event.position }}</h4>
                 </div>
                 <div class="timeline-body">
-                  <div class="text-muted">{{ event.desc | markdownify }}</div>
+                  <div class="text-muted">
+                    <ul>
+                    {%- for line in event.desc -%}
+                      <li>{{ line }}</li>
+                    {% endfor %}
+                    </ul>
+                  </div>
                 </div>
               </div>
             </li>
@@ -96,9 +103,13 @@
               <div class="timeline-heading">
                 <h4>{{ event.year | markdownify }}</h4>
                 <h4 class="subheading">{{ event.title }}</h4>
+                <h5 class="subheading light">{{ event.position }}</h4>
               </div>
               <div class="timeline-body">
                 <div class="text-muted">{{ event.desc | markdownify }}</div>
+                {%- for line in events.desc -%}
+                  <li>{{ line }}</li>
+                {%- endfor -%}
               </div>
             </div>
           </li>
