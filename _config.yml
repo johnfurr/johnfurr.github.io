@@ -21,6 +21,7 @@ sass:
     style: compressed
 
 title      : John Furr
+short-title : JF
 description: "Site description"
 author     : John Furr
 # logo:     #optional, defaults to site title

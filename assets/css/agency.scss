@@ -31,6 +31,12 @@ $contact-image: "{{ site.data.style.contact-image }}";
 @import "layout/contact.scss";
 @import "layout/footer.scss";
 
+// Base Style Overrides
+ul {
+    list-style: none;
+    padding-left: 0;
+}
+
 //Google Recaptcha
 .g-recaptcha {
     display: inline-block;

@@ -22,19 +22,20 @@ en: &DEFAULT_EN
     section: skills
     list:
       - title: "Design"
-        desc: "I value clean design, simple content structure, and thoughtful interactions."
+        desc: "I'm fascinated by the intersection of design and interaction."
         list-title: "Things I enjoy designing:"
-        list: "UX, UI, Animations, Games, Web"
+        list: "UX, UI, Motion, Games, Web"
         tools-title: "Design Tools:"
         tools:
           - item: Adobe XD
-          - item: After Animate
+          - item: Adobe Animate
           - item: Photoshop
           - item: Illustrator
+          - item: InDesign
           - item: Pen & Paper
         icon: fa fa-object-group
       - title: "Development"
-        desc: "Whether a website or a game, I like seeing projects I code from scratch come to life."
+        desc: "Whether a website or a game, I like seeing projects I code from come to life."
         list-title: "Langauges I speak:"
         list: "HTML, Sass/CSS, PHP, Javascript, Git"
         tools-title: "Dev Tools:"
@@ -49,7 +50,7 @@ en: &DEFAULT_EN
         desc: "Capturing life through the view of a lens has been a long passion of mine."
         icon: fas fa-camera
         list-title: "Cameras I wield:"
-        list: "Canon 70D, Sony A6500, Insta 360, Action Cams"
+        list: "Canon 70D, Sony A6500, Gear 360, Action Cams"
         tools-title: "Tools:"
         tools:
           - item: Photoshop
@@ -59,7 +60,7 @@ en: &DEFAULT_EN
 
   portfolio:
     title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    text: "Here's a collection of my creative works:"
     section: portfolio
     closebutton: "Close Project"
 
@@ -74,42 +75,42 @@ en: &DEFAULT_EN
         position: "Web Developer and IT Support"
         year: "May 2019 - Present"
         desc: 
-          - "Designed and developed websites for clients"
-          - "Manged website content and updates"
-          - "As well as provided technical support including network wiring, setup, and general troubleshooting"
+          - "Designed and developed websites for clients."
+          - "Manged website content and updates."
+          - "As well as provided technical support including network wiring, setup, and general troubleshooting."
         image: 
         alt:
       - title: "Stamp Idea Group"
         position: "Web Developer"
         year: "July 2013 - May 2019"
         desc: 
-          - "Developed websites with in various CMS platforms for clients"
-          - "Designed mobile responsive layouts from desktop designs"
-          - "Edited videos and photos for use on the web"
-          - "Coded and managed email marketing campaigns"
-          - "Managed website content and updates"
+          - "Developed websites with in various CMS platforms for clients."
+          - "Designed mobile responsive layouts from desktop designs."
+          - "Edited videos and photos for use on the web."
+          - "Coded and managed email marketing campaigns."
+          - "Managed website content and updates."
         image: 
         alt:
       - title: "LWT"
         position: "Creative Intern"
         year: "June - August 2012"
         desc: 
-          - "Designed print and web layouts for clients"
-          - "Managed and updated  websites"
-          - "Coded and managed email marketing campaigns"
+          - "Designed print and web layouts for clients."
+          - "Managed and updated websites."
+          - "Coded and managed email marketing campaigns."
         image: 
         alt:
       - title: "Memphis College of Art"
         position: "Mac Lab Assistant"
         year: "2009-2012"
         desc: 
-          - "Troubleshooted problems and submitted support tickets"
-          - "General maintenance. cleaning, and upkeep"
+          - "Troubleshooted problems and submitted support tickets."
+          - "General maintenance. cleaning, and upkeep."
         image: 
         alt:
         # you can enforce the alignment
         align: right
-    end: "Be Part <br> of Our <br> Story!"
+    end: 
 
   about:
     title: "Hi, I’m John. "
