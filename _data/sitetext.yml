@@ -118,9 +118,8 @@ en: &DEFAULT_EN
     section: about
     people:
       - name: John Furr
-        pic: 1
         role: Designer & Develoer
-        image: assets/img/team/500x500.jpg
+        image: assets/img/about.jpg
         social:
           - url: https://github.com/JohnMakes
             icon: fab fa-github
