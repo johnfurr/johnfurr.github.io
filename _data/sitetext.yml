@@ -35,7 +35,7 @@ en: &DEFAULT_EN
           - item: Pen & Paper
         icon: fa fa-object-group
       - title: "Development"
-        desc: "Whether a website or a game, I like seeing projects I code from come to life."
+        desc: "Whether a website or a game, I like seeing projects I code come to life."
         list-title: "Langauges I speak:"
         list: "HTML, Sass/CSS, PHP, Javascript, Git"
         tools-title: "Dev Tools:"
