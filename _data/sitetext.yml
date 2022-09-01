@@ -67,7 +67,7 @@ en: &DEFAULT_EN
 
   resume:
     title: "Resume"
-    text: "Full stack web developer with a passion for design and 5+ years of agency and 3 years of freelance exerience developing web strategies for clients."
+    text: "Full stack web developer with a passion for design and 5+ years of agency and 3 years of freelance experience developing web strategies for clients."
     section: resume
     # left is the default
     #start_align: "left"
